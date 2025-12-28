@@ -1,9 +1,10 @@
-# CSEhub Study Resource Platform for Bracu CSE Students
+# CSEhub💻 - Study Resource Platform for Bracu CSE Students
 
 A web-based study resource sharing platform built using **PHP, MySQL, HTML, and CSS**.
 
 ## Features
 - User authentication (login/signup)
+- Course and resource listing ( organize resources by semester, course code and topic)
 - Upload study materials (videos, notes, slides)
 - Download tracking
 - Ratings & comments
@@ -26,6 +27,7 @@ A web-based study resource sharing platform built using **PHP, MySQL, HTML, and 
 6. Start Apache & MySQL
 7. Open `http://localhost/cse-study-resource`
 
-## Author
-Sadia Siddiqa  
-BRAC University – CSE
+## Contributors
+
+- **Sadia Siddiqa** — Frontend/Backend development (HTML, CSS, PHP, Mysql) of Course and resource listing, Uploading study materials (mp4videos, youtube links, notes, slides), Download tracking, Ratings & comments, Resource search & filtering
+- **Nusrat Zaman Nusa** — Frontend/Backend development (HTML, CSS, PHP, MYsql) of User authentication (login/signup), Course and Faculty review, Admin approval of reviews, Dashboard for uploads and downloads
