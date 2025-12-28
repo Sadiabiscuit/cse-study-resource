@@ -31,3 +31,5 @@ A web-based study resource sharing platform built using **PHP, MySQL, HTML, and 
 
 - **Sadia Siddiqa** — Frontend/Backend development (HTML, CSS, PHP, Mysql) of Course and resource listing, Uploading study materials (mp4videos, youtube links, notes, slides), Download tracking, Ratings & comments, Resource search & filtering
 - **Nusrat Zaman Nusa** — Frontend/Backend development (HTML, CSS, PHP, MYsql) of User authentication (login/signup), Course and Faculty review, Admin approval of reviews, Dashboard for uploads and downloads
+
+> This project was developed collaboratively as part of an academic coursework.
