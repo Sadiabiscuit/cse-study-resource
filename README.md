@@ -26,6 +26,10 @@ A web-based study resource sharing platform built using **PHP, MySQL, HTML, and 
 5. Rename `config.example.php` to `config.php`
 6. Start Apache & MySQL
 7. Open `http://localhost/cse-study-resource`
+   
+## File Uploads
+The `/uploads` directory is ignored in GitHub intentionally.
+It will be created automatically when a user uploads a file.
 
 ## Contributors
 
