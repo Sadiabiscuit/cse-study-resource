@@ -1,0 +1,9 @@
+/uploads/
+/config
+*.mp4
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+/vendor/
