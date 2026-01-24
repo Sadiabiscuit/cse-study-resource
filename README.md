@@ -10,6 +10,18 @@ A web-based study resource sharing platform built using **PHP, MySQL, HTML, and 
 - Ratings & comments
 - Resource search and filtering
 - Dashboard for uploads and downloads
+  
+## Project Screenshots
+
+### ER Diagram
+![ER Diagram](images/ER_Diagram.jpg)
+
+### Home Page
+![Home Page](images/Homepage1.png)
+![Home Page](images/Homepage2.png)
+
+### Upload Page
+![Upload Page](images/upload.png)
 
 ## Technologies Used
 - PHP
@@ -31,9 +43,6 @@ A web-based study resource sharing platform built using **PHP, MySQL, HTML, and 
 The `/uploads` directory is ignored in GitHub intentionally.
 It will be created automatically when a user uploads a file.
 
-## Contributors
 
-- **Sadia Siddiqa** — Frontend/Backend development (HTML, CSS, PHP, Mysql) of Course and resource listing, Uploading study materials (mp4videos, youtube links, notes, slides), Download tracking, Ratings & comments, Resource search & filtering
-- **Nusrat Zaman Nusa** — Frontend/Backend development (HTML, CSS, PHP, MYsql) of User authentication (login/signup), Course and Faculty review, Admin approval of reviews, Dashboard for uploads and downloads
 
 > This project was developed collaboratively as part of an academic coursework.
