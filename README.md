@@ -20,8 +20,22 @@ A web-based study resource sharing platform built using **PHP, MySQL, HTML, and 
 ![Home Page](images/Homepage1.png)
 ![Home Page](images/Homepage2.png)
 
+### Login & Signup
+![login](images/login.png)
+![signup](images/signup.png)
+
+### User Dashboard
+![User Dashboard](images/User_dashboard.png)
+
+### Resource View
+![Resource View](images/resource_page1.png)
+![Resource View](images/resource_page2.png)
+
+### Resource Details
+![Resource Details](images/resource_detail.png)
+
 ### Upload Page
-![Upload Page](images/upload.png)
+![Upload Page](images/resource_upload.png)
 
 ## Technologies Used
 - PHP
