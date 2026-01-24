@@ -37,6 +37,9 @@ A web-based study resource sharing platform built using **PHP, MySQL, HTML, and 
 ### Upload Page
 ![Upload Page](images/resource_upload.png)
 
+### Course and Faculty Review
+![Review](images/Review.png)
+
 ## Technologies Used
 - PHP
 - MySQL
